@@ -42,3 +42,7 @@ Este endpoint permite añadir un nuevo libro a la base de datos.
 Acá se puede visualizar la página actualizada despues de realizar el útlimo Endpoint (donde se creó un nuevo libro):
 
 ![Imagen de localhost](https://raw.githubusercontent.com/mamf1209/libros/main/localhost1.jpg)
+
+## Crea la excepción en el paquete com.tuuniversidadexceptions:
+
+
