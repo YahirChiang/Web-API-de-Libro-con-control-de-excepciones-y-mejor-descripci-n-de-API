@@ -45,7 +45,7 @@ Acá se puede visualizar la página actualizada despues de realizar el útlimo E
 
 ## Crea la excepción en el paquete com.tuuniversidadexceptions:
 
-![Captura de Pantalla de la Aplicación](https://github.com/YahirChiang/Web-API-de-Libro-con-control-de-excepciones-y-mejor-descripci-n-de-API/blob/main/Captura de pantalla 2024-06-03 195428.jpg)
+![Captura de Pantalla de la Aplicación](https://github.com/YahirChiang/Web-API-de-Libro-con-control-de-excepciones-y-mejor-descripci-n-de-API/blob/main/Capturadepantalla2024-06-03 195428.jpg)
 
 
 
