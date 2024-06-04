@@ -17,18 +17,7 @@ editorial: El nombre de la editorial que publicó el libro.
 
 ![Code de la clase libro](https://raw.githubusercontent.com/mamf1209/libros/main/libro.jpg)
 
-## Clase LibroController.java
-La clase LibroController es responsable de manejar las solicitudes relacionadas con los libros en nuestra aplicación. Esto incluye la gestión de la lógica de negocio relacionada con los libros, como la creación, edición, eliminación y búsqueda de libros.
-## Clase LibroService.java
-La clase LibroService proporciona métodos y funciones que encapsulan la lógica de negocio relacionada con la gestión de libros. Aquí se pueden encontrar operaciones más complejas, como la validación de datos de libros, la gestión de transacciones y la interacción con la capa de persistencia de datos.
-## Clase LibroRepository.java
-La clase LibroRepository actúa como una interfaz entre nuestra aplicación y la capa de almacenamiento de datos. Aquí se definen los métodos para acceder y manipular los datos de los libros en la base de datos.
 
-# Spring Boot
-
-Acá se puede ver como se ejecutó con éxito el Spring Boot en el proyecto:
-
-![Ejecución de Spring Boot](https://raw.githubusercontent.com/mamf1209/libros/main/EjecucionSpring.jpg)
 
 # Pruebas a través de Postman:
 ## Endpoint GET/libros
